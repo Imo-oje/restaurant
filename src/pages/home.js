@@ -1,3 +1,4 @@
+import burger from "../img/hamburger.png";
 const home = () => {
   const home = document.createElement("div");
   home.classList.add("home");
@@ -18,7 +19,7 @@ const home = () => {
     </div>
   </div>
   <div class="right">
-    <img src="../src/img/hamburger.png" alt="special burger" />
+    <img src=${burger} alt="special burger" />
   </div>
   `;
 
