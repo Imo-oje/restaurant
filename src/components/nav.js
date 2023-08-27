@@ -12,7 +12,7 @@ function navBar() {
         <li>Deliveries</li></a
         > -->
         <a id="menuId" href="#menu"><li>Menu</li></a>
-        <a id="contactId" href="#">
+        <a id="contactId" href="#contact">
         <i class="fa-solid fa-phone"></i>
         <li>contact</li></a
         >
